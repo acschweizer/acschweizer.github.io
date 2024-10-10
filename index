@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>My Personal Introduction</title>
+            <style>
+                body {background-color: 1C866D;}
+                h1 {background-color: D46632;}
+                p {background-color: 0C3F39;}
+            </style>
+        </head>
+        <body>
+            <h1>
+                My name is Aiden!
+            </h1>
+            <p>
+                I quite adore cats and everything about them, I'm a huge cat person. I got into computer science out of boredom one day and attempting to learn Python with a simple phone app! I love a good fantasy book or fantasy rpg game. Fantasy is my favorite genre of media after all! 
+            </p>
+        </body>
+    </html>
